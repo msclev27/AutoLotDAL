@@ -1,0 +1,3 @@
+C:\Users\clevem2\Documents\Visual Studio 2015\Code\ProC#5\MyCode\Ch21_AutoLotDAL\Ch21_AutoLotDAL\bin\Debug\Ch21_AutoLotDAL.exe.config
+C:\Users\clevem2\Documents\Visual Studio 2015\Code\ProC#5\MyCode\Ch21_AutoLotDAL\Ch21_AutoLotDAL\obj\Debug\Ch21_AutoLotDAL.csprojResolveAssemblyReference.cache
+C:\Users\clevem2\Documents\Visual Studio 2015\Code\ProC#5\MyCode\Chapter21\Ch21_AutoLotDAL\Ch21_AutoLotDAL\bin\Debug\Ch21_AutoLotDAL.exe.config
